@@ -1,0 +1,11 @@
+{
+	"name": "talk2gather-typescript",
+	"description": "",
+	"version": "1.0.0",
+	"scripts": {},
+	"author": "ivanhofer",
+	"license": "ISC",
+	"devDependencies": {
+		"typescript": "^4.4.4"
+	}
+}
